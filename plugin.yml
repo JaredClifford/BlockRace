@@ -1,0 +1,14 @@
+name: BlockRace
+author: Jaerry
+main: com.jaerry.BlockRace.BlockRace
+version: 1.0.0
+api-version: 1.16
+commands:
+  BlockRace:
+    description: Enters you into the BlockSwap game
+    permission: jaerry.basic
+    permission-message: You don't have jaerry.basic permission
+  BRStart:
+    description: Enters you into the BlockSwap game
+    permission: jaerry.basic
+    permission-message: You don't have jaerry.basic permission
